@@ -1,2 +1,2 @@
-# CS161
-Projects for OSU CS161-Intro to Computer Science I
+# Introduction to Computer Science I
+Projects from Intro to Computer Science I course.
